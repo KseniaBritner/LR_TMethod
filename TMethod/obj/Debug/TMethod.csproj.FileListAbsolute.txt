@@ -1,0 +1,6 @@
+D:\Курс_II\ООАиП\TMethod\TMethod\bin\Debug\TMethod.dll
+D:\Курс_II\ООАиП\TMethod\TMethod\bin\Debug\TMethod.pdb
+D:\Курс_II\ООАиП\TMethod\TMethod\obj\Debug\TMethod.csproj.AssemblyReference.cache
+D:\Курс_II\ООАиП\TMethod\TMethod\obj\Debug\TMethod.csproj.CoreCompileInputs.cache
+D:\Курс_II\ООАиП\TMethod\TMethod\obj\Debug\TMethod.dll
+D:\Курс_II\ООАиП\TMethod\TMethod\obj\Debug\TMethod.pdb
